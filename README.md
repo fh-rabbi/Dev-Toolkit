@@ -45,6 +45,8 @@
 * https://pngtree.com/
 
 ### Tools:
+* https://codebeautify.org
+* https://lingojam.com/TexttoOneLine
 * https://coolsymbol.com/
 * https://unicode-table.com/
 * https://www.lipsum.com/
