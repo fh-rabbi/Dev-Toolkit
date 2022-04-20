@@ -3,6 +3,7 @@
 ### W3School:
 * https://w3schools.com/
 * https://stackoverflow.com/
+* https://www.javatpoint.com/
 
 ### Boost your html & css skills:
 *   https://www.codewell.cc/
