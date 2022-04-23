@@ -1,4 +1,4 @@
-# 💻 Websites For Web Developers:
+# 💻 Websites For Developers:
 
 ### For learning:
 ✅ https://w3schools.com
