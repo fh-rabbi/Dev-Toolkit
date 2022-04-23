@@ -1,35 +1,80 @@
 # 💻 Websites For Web Developers:
 
-### W3School:
-* https://w3schools.com/
-* https://stackoverflow.com/
-* https://www.javatpoint.com/
+### For learning:
+✅ https://w3schools.com
+
+✅ https://www.w3resource.com
+
+✅ https://udemy.com
+
+✅ https://freecodecamp.org
+
+✅ https://www.geeksforgeeks.org
+
+✅ https://developer.mozilla.org/en-US
+
+✅ https://stackoverflow.com
+
+✅ https://www.javatpoint.com
+
+✅ https://htmlreference.io
+
+✅ https://cssreference.io
+
+✅ https://css-tricks.com
+
+
+### Cheat sheet:
+
+📣 https://gitsheet.wtf
+
+📣 https://devhints.io
+
+📣 https://overapi.com
+
+📣 https://easings.net
 
 ### Boost your html & css skills:
-*   https://www.codewell.cc/
-*   https://www.dailyui.co/
-*   https://devchallenges.io/
-*   https://www.frontendmentor.io/
-*   https://codier.io/
-*   https://www.codewars.com/
-*   https://100dayscss.com/
-*   https://www.acefrontend.com/
-*   https://www.dailyui.co/
+*   https://www.codewell.cc
+*   https://www.dailyui.co
+*   https://devchallenges.io
+*   https://www.frontendmentor.io
+*   https://codier.io
+*   https://www.codewars.com
+*   https://100dayscss.com
+*   https://www.acefrontend.com
+*   https://www.dailyui.co
+
+### Css generator:
+🎨 https://css3generator.com
+
+🎨 https://enjoycss.com
+
+🎨 https://getcssscan.com
+
+🎨 https://stylestage.dev
+
+🎨 http://csstypeset.com
+
+🎨 https://neumorphism.io
+
+🎨 https://www.cssmatic.com
+
 
 ### Boost your javascript skills:
 
-*   https://javascript.info/
-*   https://jsbeginners.com/javascript-projects-for-beginners/
+*   https://javascript.info
+*   https://jsbeginners.com/javascript-projects-for-beginners
 *   https://edabit.com/challenges/javascript
-*   https://javascript30.com/
+*   https://javascript30.com
 
 
 ### Colors:
 * https://coolors.co
-* https://color.adobe.com/
-* http://colormind.io/
-* https://colorhunt.co/
-* https://mycolor.space/
+* https://color.adobe.com
+* http://colormind.io
+* https://colorhunt.co
+* https://mycolor.space
 * https://www.w3schools.com/colors/default.asp
 
 ### Icons:
@@ -46,14 +91,14 @@
 * https://pngtree.com/
 
 ### Tools:
-* https://codebeautify.org
-* https://lingojam.com/TexttoOneLine
+* https://codebeautify.org/
+* https://lingojam.com/TexttoOneLine/
 * https://coolsymbol.com/
 * https://unicode-table.com/
 * https://www.lipsum.com/
 * https://fonts.google.com/
 * https://smalldev.tools/
-* https://unbug.github.io/codelf
+* https://unbug.github.io/codelf/
 
 
 ### Hosting:
